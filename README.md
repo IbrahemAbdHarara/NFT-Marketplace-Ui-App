@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-# Splash Screen NFT   :)
+# Splash Screen NFT   ☣️
 ![splash Screen NFT](https://user-images.githubusercontent.com/91701678/230720322-a454a088-2744-438f-a56f-92f6a97c5f9a.png)
 
 # Home Screen NFT :
