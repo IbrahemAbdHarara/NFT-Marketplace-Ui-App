@@ -1,4 +1,4 @@
-# nft_marketplace_ui_app
+# nft_marketplace_ui_app 🤯🔥🔥🔥
 
 A new Flutter project.
 
